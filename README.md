@@ -1,5 +1,5 @@
 # Priscila Souza
-Oi estou migrando de profissão e escolhi a TI, pois é uma área que está sempre se atualizando. No momento estou terminando minha faculdade de Tecnologia em Análise de Desenvolvimento de Sistemas e estou fazendo também o Bootcamp WEX pela Dio . Pretendo atuar no front end e mas também me capacitar para aprender uma outra área nesse mundo da programação.
+Oi estou migrando de profissão e escolhi a TI, pois é uma área que está sempre se atualizando. Acabei de me forma em Tecnolia em Análise e Desenvolvimneto de Sistemas. Pretendo atuar no front end  mas também me capacitar para aprender uma outra área nesse mundo da programação.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/priscilaos87/)
