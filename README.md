@@ -1,5 +1,5 @@
 # Priscila Souza
-Oi estou migrando de profissão e escolhi a TI, pois é uma área que está sempre se atualizando. Acabei de me forma em Tecnolia em Análise e Desenvolvimneto de Sistemas. Pretendo atuar no front end  mas também me capacitar para aprender uma outra área nesse mundo da programação.
+Oi estou migrando de profissão e escolhi a TI, pois é uma área que está sempre se atualizando. Acabei de me formar em Análise e Desenvolvimneto de Sistemas. Pretendo atuar no front end  mas também me capacitar para aprender uma outra área nesse mundo da programação.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/priscilaos87/)
